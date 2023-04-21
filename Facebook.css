@@ -65,6 +65,7 @@ div .sd img {
   display: inline-block;
   height: 43px;
   width: 43px;
+  cursor: pointer;
 }
 .name-holder {
   border-top: none !important;
